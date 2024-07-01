@@ -45,15 +45,6 @@ export default function Educations() {
 									</Link>
 								</td>
 							</tr>
-							<tr>
-								<td>Other</td>
-								<td>Dec 2018</td>
-								<td>
-									<Link to='/details' class='btn blue lighten-2'>
-										View
-									</Link>
-								</td>
-							</tr>
 						</tbody>
 					</table>
 				</div>
