@@ -25,10 +25,10 @@ export default function Profile() {
 					</span>
 					
 					<a href='https://github.com/Marsehat' className='social_button' target='_blank' rel='noopener noreferrer'>
-						<i className='fab fa-github grey-text text-darken-4 social_style'></i>
+						<i className='fab fa-github grey-text text-darken-4 social_style' style= 'font-size : 24px;'></i>
 					</a>
 					<a href='https://www.linkedin.com/in/marcelo-de-oliveira-barcelos-082265247/' className='social_button' target='_blank' rel='noopener noreferrer'>
-						<i className='fab fa-linkedin-in grey-text text-darken-4 social_style'></i>
+						<i className='fab fa-linkedin-in grey-text text-darken-4 social_style' style= 'font-size : 24px;'></i>
 					</a>
 				</div>
 			</div>
