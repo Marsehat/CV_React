@@ -10,3 +10,14 @@ body ul.custom-list.browser-default {
   list-style-type: disc !important;
   padding-left: 20px !important;
 }
+
+.contact-icons {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.contact-icon {
+  margin: 0 10px;
+}
