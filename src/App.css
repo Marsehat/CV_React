@@ -31,7 +31,7 @@ body ul.custom-list.browser-default {
   left: -250px;
   width: 250px;
   height: 100%;
-  background: #333;
+  background: #29b0f4;
   transition: left 0.3s ease;
   z-index: 1000;
 }
@@ -48,7 +48,7 @@ body ul.custom-list.browser-default {
 }
 
 .sidenav a:hover {
-  background-color: #575757;
+  background-color: #95f7e019;
 }
 
 nav .sidenav-trigger {
@@ -57,4 +57,7 @@ nav .sidenav-trigger {
 
 nav .sidenav-trigger i {
   color: #fff;
+}
+body {
+  transition: none !important; 
 }
